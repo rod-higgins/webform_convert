@@ -1,0 +1,7 @@
+webform_convert.select_webform_id:
+  version: VERSION
+  js:
+    js/webform_convert.select_webform_id.js: {}
+  dependencies:
+    - core/jquery
+    - core/drupal
